@@ -1,0 +1,7 @@
+Most of dp can be approached using the following sequence:
+
+Find recursive relation
+Recursive (top-down)
+Recursive + memo (top-down)
+Iterative + memo (bottom-up)
+Iterative + N variables (bottom-up)
